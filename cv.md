@@ -90,3 +90,16 @@ I managed the process of building materials imports from planning the order with
 
 I tested desktop software manually, assured quality according to documentation. Improved user manuals and wrote research papers. The software computed air and water radioactive pollution for the environment pollution control and reports.
 
+----------
+## **Education**
+* 2014 - 2017 **Masters degree in Sociology at Lomonosov Moscow State University** (with an emphasis on survey design and research methodologies)
+* 2013 - 2015 **Diploma at French University College**
+* 2006 - 2011 **Specialist in Geoecology and use of nature at Lomonosov Moscow State University** (with Honors, 4.9/5).
+
+----------
+## **Languages**
+* English - C1 - Cambridge Certificate in English - Proficiency (2009, Level C2), Advanced (2005, Level C1)
+* German language certificate - Deutsches Sprachdiplom 2 Stufe (2006)
+* Russian - Native
+* Ukrainian - Fluent
+* Turkish - Conversational (A2)
